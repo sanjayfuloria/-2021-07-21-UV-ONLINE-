@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "University of Venda"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address : "online", "https://carpentries.zoom.us/my/carpentriesroom2"
+address : "https://carpentries.zoom.us/my/carpentriesroom2"
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -62,7 +62,6 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endif %}
 
 {% comment %}
-EVENTBRITE
 
 This block includes the Eventbrite registration widget if
 'eventbrite' has been set in the header.  You can delete it if you

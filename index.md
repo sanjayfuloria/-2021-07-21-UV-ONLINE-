@@ -146,7 +146,8 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online. The password is 202020.
+  <strong>Where:</strong> This training will take place online. 
+  The password is 202020.
   
 </p>
 {% endif %}

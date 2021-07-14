@@ -141,13 +141,12 @@ address.
 <p id="where">
   <strong>Where:</strong>
   online at <a href="{{page.address}}">{{page.address}}</a>.
-  If you need a password or other information to access the training,
-  the instructor will pass it on to you before the workshop.
+  The Zoom password is 202020
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online. 
-  The password is 202020.
+  <strong>Where:</strong> This training will take place online,
+  The password is 202020
   
 </p>
 {% endif %}

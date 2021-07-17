@@ -139,7 +139,7 @@ address.
 {% elsif online == "true_public" %}
 <p id="where">
   <strong>Where:</strong>
-  online at <a href="{{page.address}}">{{page.address}}</a>. Password is 202020.
+  online at <a href="{{page.address}}">{{page.address}}</a>.
   
 </p>
 {% elsif online == "true_private" %}
